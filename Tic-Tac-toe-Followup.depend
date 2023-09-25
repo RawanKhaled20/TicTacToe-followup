@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695654683 source:c:\users\p.c\desktop\tic-tac-toe-followup\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<cctype>
+
